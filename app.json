@@ -7,9 +7,9 @@
 
   "env": {
     "SESSION_ID": {
-            "description": "Type the Session-ID you got from scaning QR / ඔබට ආපු කොඩය මෙතන්ට දමන්න",
+            "description": "VAJIRA-MD=jZlgxIKa#5cPhs7aO-WURZBPCmqQOo4zZ5xbsltutIjbXxhByn10",
             "required": true,
-            "value": "put session id here"
+            "value": "VAJIRA-MD=jZlgxIKa#5cPhs7aO-WURZBPCmqQOo4zZ5xbsltutIjbXxhByn10"
         },
     "COMMAND_TYPE": {
             "description": "Put correct spelling button or nonbutton here to change mode / මෙයට button හෝ nonbutton ලෙස නිවැරදිව නොවරදවා දමන්න",
@@ -32,9 +32,9 @@
             "value": "postgres://vajiratech_user:oSIFl2xmSojMZ0rkzdd0g0W6msuVTpNN@dpg-cpd7fjv109ks73e5gtig-a.frankfurt-postgres.render.com/vajiratech"
         },
     "OWNER_NUMBER": {
-            "description": "Put Your number here / ඔබගෙ දුරකතන අංකය දමන්න",
+            "description": "94711814650",
             "required": true,
-            "value": "9471xxxxxxx"
+            "value": "94711814650"
 }
 
     },
